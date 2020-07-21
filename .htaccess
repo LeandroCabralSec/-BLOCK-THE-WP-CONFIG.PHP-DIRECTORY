@@ -1,3 +1,6 @@
+Coloque no .htaccess do seu servidor, para negar acesso a qualquer um que esteja navegando atrás dele.
+Put it on your server's .htaccess, to deny access to anyone browsing behind it.
+
 # BLOQUEAR O DIRETÓRIO WP-CONFIG.PHP #
 # BLOCK THE WP-CONFIG.PHP DIRECTORY #
 <files wp-config.php>
