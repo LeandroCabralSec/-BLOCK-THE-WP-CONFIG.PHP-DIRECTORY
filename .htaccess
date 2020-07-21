@@ -1,0 +1,6 @@
+# BLOQUEAR O DIRETÓRIO WP-CONFIG.PHP #
+# BLOCK THE WP-CONFIG.PHP DIRECTORY #
+<files wp-config.php>
+Order deny,allow
+Deny from all
+</files>
